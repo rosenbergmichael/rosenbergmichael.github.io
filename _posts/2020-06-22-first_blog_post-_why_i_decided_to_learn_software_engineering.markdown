@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Why I Decided to Learn Software Engineering#"
+title:      "Why I Decided to Learn Software Engineering"
 date:       2020-06-22 13:04:13 -0400
 permalink:  first_blog_post-_why_i_decided_to_learn_software_engineering
 ---
