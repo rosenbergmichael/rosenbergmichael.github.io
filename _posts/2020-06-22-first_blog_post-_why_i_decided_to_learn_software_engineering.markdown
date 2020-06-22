@@ -1,9 +1,10 @@
 ---
 layout: post
-title:      "Why I Decided to Learn Software Engineering"
+title:      "Why I Decided to Learn Software Engineering # "
 date:       2020-06-22 13:04:13 -0400
 permalink:  first_blog_post-_why_i_decided_to_learn_software_engineering
 ---
+
 
 
 Hi there!  Welcome and thank you in advance for taking the time to read this first blog of mine, as well as all of my future blogs.  I am a Software Engineering student at the Flatiron School and I’m so incredibly excited to be a new member of this amazing community.  
