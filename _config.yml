@@ -1,11 +1,11 @@
 # Site settings
 author: Michael Rosenberg
-title: 
+title: Michael Rosenberg's Blog
 header-img: img/home-bg.png
 email: rosenbergmj1@gmail.com
 copyright_name: Michael Rosenberg
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Blogs
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  rosenbergmichael
